@@ -25,7 +25,7 @@ namespace active_directory_b2c_wpf
         /// <summary>
         /// ClientId for the application which initiates the login functionality (this app)  
         /// </summary>
-        private static readonly string ClientId = "841e1190-d73a-450c-9d68-f5cf16b78e81";
+        private static readonly string ClientId = "Enter_the_Application_Id_Here";
 
         /// <summary>
         /// Should be one of the choices on the Azure AD B2c / [This App] / Authentication blade
